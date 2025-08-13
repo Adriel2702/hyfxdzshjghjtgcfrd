@@ -1,0 +1,32 @@
+{
+  "players": [
+    {
+      "category": "Testing",
+      "guild_id": "1358433748609401062",
+      "is_high_tier": 1,
+      "rank": "High Tier 1",
+      "region": "EU",
+      "tier": 1,
+      "username": "Adriel2702"
+    },
+    {
+      "category": "vanilla",
+      "guild_id": "1142371558610972682",
+      "is_high_tier": 0,
+      "rank": "Low Tier 1",
+      "region": "EU",
+      "tier": 1,
+      "username": "K3NC5RSON"
+    },
+    {
+      "category": "Testing",
+      "guild_id": "1358433748609401062",
+      "is_high_tier": 0,
+      "rank": "Low Tier 5",
+      "region": "EU",
+      "tier": 5,
+      "username": "yonitsu"
+    }
+  ],
+  "success": true
+}
