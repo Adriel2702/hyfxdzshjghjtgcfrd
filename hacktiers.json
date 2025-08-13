@@ -16,7 +16,7 @@
       "rank": "Low Tier 1",
       "region": "EU",
       "tier": 1,
-      "username": "K3NC5RSON"
+      "username": "example1"
     },
     {
       "category": "Testing",
@@ -25,7 +25,7 @@
       "rank": "Low Tier 5",
       "region": "EU",
       "tier": 5,
-      "username": "yonitsu"
+      "username": "example2"
     }
   ],
   "success": true
